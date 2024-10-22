@@ -17,15 +17,6 @@ My ultimate goal is to leverage my comprehensive knowledge of the digital landsc
 
 ### Projects
 
-Here are some of my favorite projects I have done lately. Feel free to check them out and get inspired!
-
-- **Website**: Retro Camera
-- **Product Design**: The White Lamp
-- **Branding**: Rucksuck
-- **Website**: Since Day One
-- **Illustration**: Sand Dunes
-- **Branding**: Minimalismo
-
 ### Contact
 
 I love to hear from you. Whether you have a question or just want to chat about design, tech & art — shoot me a message.
