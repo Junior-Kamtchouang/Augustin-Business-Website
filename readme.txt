@@ -1,4 +1,4 @@
-#Augustin's Portfolio
++#Augustin's Portfolio
 
 Welcome to my portfolio website! Here you'll find an overview of my professional journey, projects, and expertise.
 
