@@ -1,132 +1,85 @@
-==================================================================================================
+# Augustin's Portfolio
 
-DESCRIPTION:
+Welcome to my portfolio website! Here you'll find an overview of my professional journey, projects, and expertise.
 
-LUTHER is a modern, stylish, free personal website template designed for creative individuals 
-and professionals. It is the perfect template if you wish to build an online presence and create 
-a strong first impression on all your site visitors. Luther will help you craft a personal 
-professional website wherein you can showcase your works, talents, and present yourself on the 
-web in the best possible light. On top of that, the template is versatile and easy to customize 
-so with some modifications and a bit of creativity you even use it as a portfolio site for 
-digital studios or a landing page for your projects.
+## Hello World
 
-==================================================================================================
+I am Augustin, a software developer and bachelor student based in Essen. 
 
+## About Me
 
-LICENSE:
+### Work Experience
+I’m currently a working student specializing in Python development at Wuthold und Braun. I've gained extensive experience with web tools like Django (Python framework) and PostgreSQL databases. Driven by a deep interest in AI, I've led digital transformation initiatives at my company using Python libraries like Pandas, automating tasks in bookkeeping.
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
+Outside of my professional role, I have also assisted freelancers and small businesses in establishing their online presence with custom websites and Google SEO.
 
+### Education
+As I enter the final year of my Bachelor's degree in Computer Science and AI, I am focusing on gaining a deeper understanding of AI concepts such as Natural Language Processing, Neural Networks, and Large Language Models.
 
-Rights:
--------
+### Future Goals
+My ultimate goal is to leverage my comprehensive knowledge of the digital landscape to pursue a career as a software architect.
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+## Expertise
+- **Software Development**
+- **UX, UI Design**
+- **Product Design**
+- **Prototyping**
+- **Illustration**
 
+## Experience
 
-Prohibitions:
--------------
+### Wuthold und Braun
+**Software Developer Python**  
+_August 2019 - Present_  
+Developing a Django platform for managing numerous tasks within the firm. Automating various processes using Python Pandas libraries.
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+### Microsoft
+**Frontend Developer**  
+_August 2016 - July 2019_  
+Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.
 
+## Education
 
-Attribution: 
-------------
+### Hochschule Ruhr West
+**B. Sc in Computer Science and AI**  
+_September 2020 - Present_  
+Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.
 
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
+### School of Cool Designers
+**B.A. Degree in Graphic Design**  
+_August 2012_  
+Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.
 
+## Recent Works
 
+Here are some of my favorite projects I have done lately. Feel free to check them out.
 
-If you have any questions about the License, feel free to contact us.
+- **Website**: Retro Camera
+- **Product Design**: The White Lamp
+- **Branding**: Rucksuck
+- **Website**: Since Day One
+- **Illustration**: Sand Dunes
+- **Branding**: Minimalismo
 
+## Get in Touch
 
------------------------------------------------------------------------------------------------------
+I love to hear from you. Whether you have a question or just want to chat about design, tech & art — shoot me a message.
 
+### Reach Me At
 
-REMOVING THE ATTRIBUTION LINK:
+- **Email**: [juniorkamtchouang@outlook.de](mailto:juniorkamtchouang@outlook.de)
+- **Phone**: +49 178 9815652
 
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
+### Social
 
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
+- [Xing](#)
+- [LinkedIn](#)
+- [Github](#)
 
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
+## Say Hello
 
+Feel free to say hello and connect with me!
 
------------------------------------------------------------------------------------------------------- 
+---
 
-
-SUPPORT:
-    
-Since LUTHER is distributed for free, support is not offered. LUTHER is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
-
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
-
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Public Sans Font (https://fonts.google.com/specimen/Public+Sans)
- - DM Serif Display (https://fonts.google.com/specimen/DM+Serif+Display)
-
-Icons:
- - Iconmonstr (https://iconmonstr.com/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - Anime.js (https://animejs.com/)
- - Swiper (https://swiperjs.com/)
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - Basic Lightbox (https://basiclightbox.electerious.com/)
- - MailtoUI (https://mailtoui.com/)
-
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from Styleshout :)
-
-
+© Copyright Luther 2021 Design by StyleShout Distribution By Themewagon
